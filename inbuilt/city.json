@@ -1,0 +1,32 @@
+[{
+  "country": "India",
+  "population": 1393409038,
+  "area": 3287263,
+  "capital": "New Delhi",
+  "currency": "INR",
+  "language": "Hindi"
+},
+{
+  "country": "China",
+  "population": 1444216107,
+  "area": 9596961,
+  "capital": "Beijing",
+  "currency": "CNY",
+  "language": "Mandarin"
+},
+{
+  "country": "Germany",
+  "population": 83783942,
+  "area": 357022,
+  "capital": "Berlin",
+  "currency": "EUR",
+  "language": "German"
+},
+{
+  "country": "France",
+  "population": 65273511,
+  "area": 551695,
+  "capital": "Paris",
+  "currency": "EUR",
+  "language": "French"
+}]
